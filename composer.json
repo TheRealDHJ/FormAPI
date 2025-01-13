@@ -1,7 +1,7 @@
 {
 	"name": "jojoe77777/formapi",
+	"description": "Simple API for creating forms for MCPE clients (PocketMine only)",
 	"type": "library",
-	"minimum-stability": "stable",
 	"license": "LGPL-3.0-only",
 	"autoload": {
 		"psr-0": {
