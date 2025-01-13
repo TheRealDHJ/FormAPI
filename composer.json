@@ -1,0 +1,16 @@
+{
+  "name": "jojoe77777/formapi",
+	"type": "library",
+  "license": "LGPL-3.0-only",
+	"autoload": {
+    "psr-0": {
+      "jojoe77777\\FormAPI\\": "src"
+		}
+	},
+  "extra": {
+    "virion": {
+      "spec": "3.0",
+      "namespace-root": "jojoe77777\\FormAPI"
+    }
+  }
+}
